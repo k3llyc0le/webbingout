@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>BANtesterino</title>
+
+<meta charset="utf-8" />
+
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+
+<style>
+
+/* p {
+  color: red;
+}
+ */
+
+img {
+
+max-width: 100%;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<!-- You can put your HTML here -->
+
+Webbing
+
+</body>
+
+</html>
+
